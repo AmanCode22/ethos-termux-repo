@@ -4,7 +4,7 @@ This is a repo for pkg of termux holding all the prebuilt deb files for ethos an
 How to setup repo?
 Run
 ```
-echo "deb [trusted=yes] https://YOUR_USERNAME.github.io/ethos-termux-repo termux extras" >> $PREFIX/etc/apt/sources.list.d/ethos.list
+echo "deb [trusted=yes] file:///home/aman/Documents/ethos-termux-repo/repo termux extras" >> $PREFIX/etc/apt/sources.list.d/ethos-local.list
 pkg update
 pkg install ethos-lang-termux ethos-forge-termux
 ```
