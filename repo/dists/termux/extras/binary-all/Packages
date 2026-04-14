@@ -3,7 +3,7 @@ Version: 0.5.0-beta
 Architecture: all
 Depends: python (>= 3.10)
 Maintainer: AmanCode22
-Installed-Size: 1612
+Installed-Size: 1616
 Section: devel
 Priority: optional
 Description: Package manager for the Ethos language
@@ -13,11 +13,11 @@ Description: Package manager for the Ethos language
  never runs install scripts and works entirely from the standard library.
  Use alongside ethos-lang or standalone to manage your Ethos environment.
 Filename: dists/termux/extras/binary-all/ethos-forge_0.5.0-beta_all.deb
-Size: 1433460
-MD5Sum: 7657135e1ac35335e4ffd42dd0d8c4f3
-SHA1: 812ac7379eab6daac7533b3b9b2870048463c3b1
-SHA256: 757e26f281c9da31a470c35b03f3ae4e2fedf109ff5ea51ddd9e5ea456c31946
-SHA512: a14c39945d3b6c612587a4134da773c1a44a6fcb8992337f61f51868890fc3c5a372c71d250ad84a688adb2c39969f28f715a8a01bb76980a0858aa9507e5c8d
+Size: 1434704
+MD5Sum: bf1892f3f5483ffd59eac89708af7acd
+SHA1: ddb3a97eada660292a2456f7830d1bc08a2e7a44
+SHA256: 8e0b7b0ffe8cec6093efcf6df2d6ea9eab57631cd73910e184643fbe19e1ffd3
+SHA512: 79eec4ea2629c13bea21f9c70c76290153472964666675c1e7d62cf05f51651d1cc05669c24d8b2a28dd45a3b218d7a741e9227c6b1f88274b580cb395281bbc
 
 Package: ethos-lang
 Version: 0.5.0-beta
@@ -35,8 +35,8 @@ Description: English-like programming language that transpiles to Python
  This Termux build runs on Python via zipapp with no native deps.
 Filename: dists/termux/extras/binary-all/ethos-lang_0.5.0-beta_all.deb
 Size: 6080
-MD5Sum: 5478538b31c166003884b9f573378942
-SHA1: bb8cad6061cd1181038f152180eb8ca87d9efede
-SHA256: 7c7ff05a7fb9e6fb1b7c30c91a94bc2dd93b9b59fcc1b2015eb0badd41436033
-SHA512: c2a8844c44bd1d4c04b14eb05660c36f6df3f01fa9a4d2043df78752973ebfa4d75d93a07b61f79703d3ec0494dd8fe74e5730b07e875ca4e60d13e0bb8358e0
+MD5Sum: 001e16d3c576283732875dcdf3ddb74c
+SHA1: fd86737c6c22151863a5f428eba4560e962de774
+SHA256: 9efebae1a6dabfd81ee976e6b277505bd9aca712a9a4aac892d512533991478e
+SHA512: 17077ec65c9e074241fe9676a5403a4e1ac188311be54a0c9dc550680b8f27006b7e1ebe89c1bf9d51ca1cb6029e4927fa50521360105f7b700ffa7726d29670
 
